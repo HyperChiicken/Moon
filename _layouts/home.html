@@ -15,12 +15,16 @@ layout: compress
     <header class="header flex" role="banner">
         <div class="container animated fadeIn">
             <div class="row">
+                <h3 class="logo">
                     <a href="{{ site.url }}">
                         <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn"
                              height="500%" width="500%">
                     </a>
-                    {% include social-links.html %}
-                  <hr class="hr-line">
+                </h3>
+                
+                <hr class="hr-line">
+                {% include social-links.html %}
+                  
                   <h3 class="title">
                          <a class="btn zoombtn" href="{{ site.url }}/about">
                          About
