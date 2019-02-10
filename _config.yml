@@ -41,6 +41,7 @@ disqus_shortname:   HyperChiicken
 #twitter:            HyperChiicken
 #facebook:           username
 github-url:         HyperChiicken
+gitlab-url:         HyperChiicken
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -61,7 +62,7 @@ github-url:         HyperChiicken
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-giltab-url:         HyperChiicken
+
 
 # Gems
 gems:
