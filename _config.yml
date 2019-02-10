@@ -38,10 +38,9 @@ disqus_shortname:   HyperChiicken
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            HyperChiicken
+#twitter:            HyperChiicken
 #facebook:           username
 github-url:         HyperChiicken
-giltab-url:         HyperChiicken
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -51,7 +50,7 @@ giltab-url:         HyperChiicken
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:             HyperChiicken
+#steam:             HyperChiicken
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -62,6 +61,7 @@ steam:             HyperChiicken
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
+giltab-url:         HyperChiicken
 
 # Gems
 gems:
