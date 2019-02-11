@@ -7,11 +7,6 @@ comments: false
 ---
     
 ## The Academic
-    
-{% capture images %}
-    https://github.com/HyperChiicken/hyperchiicken.github.io/blob/master/assets/img/unlv.jpg
-{% endcapture %}
-{% include gallery images=images caption="" cols=1 %}
 
 <figure>
 	<a href="unlv_image"><img src="/assets/img/unlv.jpg"></a>
