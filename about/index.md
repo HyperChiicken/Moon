@@ -8,7 +8,7 @@ comments: false
     
 ## The Academic
 <figure>
-	<a href="unlv_image"><img src="/assets/img/sketch-2.png"></a>
+	<a href="unlv_image"><img src="/assets/img/sketch-2.jpg"></a>
 	<figcaption>It's never enough.</figcaption>
 </figure>
 
