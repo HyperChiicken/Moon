@@ -23,4 +23,9 @@ So. Much. Studying. I feel like the bulk of my life was spent on academia. You k
 It's rewarding to see one of your prototypes at work, but getting to that moment is painful. Building something from nothing literally takes a lot of time. The cycle of implementing and debugging until it works is frustrating at best. Yet I still push forward because every hurdle is a lesson waiting to be learned. And overcoming all the hurdles brings you to the goal of a (kindda) completed project.
 
 ## The Artist
+<figure>
+	<a href="maker_image"><img src="/assets/img/artist.jpg"></a>
+	<figcaption>What?</figcaption>
+</figure>
 
+I like cute and cool looking things. Someday I'd like to marry them together and have something like chibi chihuahuas wearing mecha armor. In the the meantime, I'm just drawing random doodles/comics as some sort of a weekly journal.
