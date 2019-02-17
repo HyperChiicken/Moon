@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page-about
 title: About HyperChiicken
-tags: [about, Jekyll, theme, moon]
+tags: [about, hyperchiicken, academic, maker, artist]
 date: 2016-03-21
 comments: false
 ---
