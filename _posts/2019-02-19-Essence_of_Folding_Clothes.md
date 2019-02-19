@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Essence of Folding Clothes"
-date: 2019-02-13
+date: 2019-02-19
 excerpt: "I should really fold my clothes."
 tags: [briefs, folding, commando]
 comments: false
