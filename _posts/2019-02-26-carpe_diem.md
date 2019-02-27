@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carpe Diem"
-date: 2019-02-19
+date: 2019-02-26
 excerpt: "Seizzz the day."
 tags: [carpe diem, zzz, nap]
 comments: false
