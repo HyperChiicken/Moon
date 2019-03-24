@@ -8,7 +8,7 @@ comments: false
 ---
 
 <figure>
-	<a href="commando-image"><img src="/assets/img/commando.jpg"></a>
+	<img src="/assets/img/commando.jpg">
 	<figcaption>Commando.</figcaption>
 </figure>
 
