@@ -8,7 +8,7 @@ comments: false
 ---
 
 <figure>
-	<a href="battalion-image"><img src="/assets/img/right_hand_battalion.jpg"></a>
+	<img src="/assets/img/right_hand_battalion.jpg">
 	<figcaption>When the keyboard symbol war emerges, only the right hand battlion can win it.</figcaption>
 </figure>
 
