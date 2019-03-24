@@ -8,7 +8,7 @@ comments: false
 ---
 
 <figure>
-	<a href="carpe-image"><img src="/assets/img/carpe_diem.jpg"></a>
+	<img src="/assets/img/carpe_diem.jpg">
 	<figcaption>Seizzz the day.</figcaption>
 </figure>
 
