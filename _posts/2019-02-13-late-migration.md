@@ -8,7 +8,7 @@ comments: false
 ---
 
 <figure>
-	<a href="migration-image"><img src="/assets/img/migration.jpg"></a>
+	<img src="/assets/img/migration.jpg">
 	<figcaption>Ducks be late.</figcaption>
 </figure>
 
