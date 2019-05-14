@@ -8,7 +8,7 @@ comments: false
     
 ## The Academic
 <figure>
-	<a href="academic_image"><img src="/assets/img/sketch-2.jpg"></a>
+	<img src="/assets/img/sketch-2.jpg">
 	<figcaption>It's never enough.</figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ So. Much. Studying. I feel like the bulk of my life was spent on academia. You k
 
 ## The Maker
 <figure>
-	<a href="maker_image"><img src="/assets/img/maker.jpg"></a>
+	<img src="/assets/img/maker.jpg">
 	<figcaption>Some things I cobbled together.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ It's rewarding to see one of your prototypes at work, but getting to that moment
 
 ## The Artist
 <figure>
-	<a href="maker_image"><img src="/assets/img/artist.jpg"></a>
+	<img src="/assets/img/artist.jpg">
 	<figcaption>What?</figcaption>
 </figure>
 
