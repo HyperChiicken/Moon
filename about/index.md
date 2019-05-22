@@ -28,4 +28,4 @@ It's rewarding to see one of your prototypes at work, but getting to that moment
 	<figcaption>What?</figcaption>
 </figure>
 
-I like cute and cool looking things. Someday I'd like to marry them together and have something like chibi chihuahuas wearing mecha armor. In the the meantime, I'm just drawing random doodles/comics as some sort of a weekly journal.
+I like cute and cool looking things. Someday I'd like to marry them together and have something like chibi chihuahuas wearing mecha armor. In the meantime, I'm just drawing random doodles/comics as some sort of a journal.
