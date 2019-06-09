@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Back at it."
+date: 2019-06-08
+excerpt: "Getting back to the groove after a little refresher."
+tags: [bringitback, roboarm, afterthebreak]
+comments: false
+---
+
+<figure>
+	<img src="/assets/img/robo_arm.jpg">
+</figure>
+
+&ensp;&ensp;Back to building things again after a healthy dose of JRPGs. My current plaything is this Adeept Robo Arm I got from Amazon Warehouse deals. It's cheaper than usual so went I ahead and bought it. The plan is to use the Raspberry Pi and an old Xbox 360 controller to control the servo motors. Communicating with the Arduino using PyPi, PySerial, and Arduino python library is helpful. Got things moving erratically (needs some intermittent sleep between each command). It's starting out nicely but batteries ran dry. Charging 'em up and continue experimenting on it after another break. :P 
