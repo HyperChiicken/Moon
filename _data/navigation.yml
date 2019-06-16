@@ -1,4 +1,4 @@
 # Site navigation links
 
 - title: Recent Ramblings
-  url: /projects/
+  url: {{ site.posts.first }}
