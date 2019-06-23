@@ -25,9 +25,9 @@ comments: false
 	<img src="/assets/img/psvitamod2.jpg">
 </figure>
 
-&ensp;&ensp;<b>3.65 OFW! AWWW YEAAH!</b> Now all I need to do is open <b>VitaShell</b> to activate <b>henkaku</b> again and install <b>h-encore</b>. <b>WROOOOONG!!!</b> The downgrade actually affected the install of <b>VitaShell</b>, which means I need to redo my installation of it. So I treated this part as if I'm just modifying a fresh <b>3.65 OFW</b> PSvita from scratch.
+&ensp;&ensp;<b>3.65 OFW! AWWW YEAAH!</b> Now all I need to do is open <b>VitaShell</b> to activate <b>henkaku</b> again and install <b>enso</b>. <b>WROOOOONG!!!</b> The downgrade actually affected the install of <b>VitaShell</b>, which means I need to redo my installation of it. So I treated this part as if I'm just modifying a fresh <b>3.65 OFW</b> PSvita from scratch.
 
-&ensp;&ensp;Following the README file from theFlow's official h-encore repository got me there (<a href="https://github.com/TheOfficialFloW/h-encore">https://github.com/TheOfficialFloW/h-encore</a>). This made my <b>VitaShell</b> usable again. So I just transferred the <i><b>enso.vpk</b></i> from my computer to the PSvita. This is the one I used: <a href="https://github.com/TheOfficialFloW/enso/releases/tag/v1.1">https://github.com/TheOfficialFloW/enso/releases/tag/v1.1</a> . I got caught with some errors initally with this because the link I downloaded from was for </b>3.60 OFW</b>. <b>>__O</b> So make sure you're downloading the right/compatible version!
+&ensp;&ensp;Following the README file from theFlow's official h-encore repository got me there (<a href="https://github.com/TheOfficialFloW/h-encore">https://github.com/TheOfficialFloW/h-encore</a>). This made my <b>VitaShell</b> usable again. So I just transferred the <i><b>enso.vpk</b></i> from my computer to the PSvita. This is the one I used: <a href="https://github.com/TheOfficialFloW/enso/releases/tag/v1.1">https://github.com/TheOfficialFloW/enso/releases/tag/v1.1</a> . I got caught with some errors initally with this because the link I downloaded from was for <b>3.60 OFW</b>. <b>>__O</b> So make sure you're downloading the right/compatible version!
 
 <figure>
 	<img src="/assets/img/psvitamod3.jpg">
