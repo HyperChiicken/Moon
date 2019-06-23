@@ -19,7 +19,7 @@ comments: false
 	<img src="/assets/img/enso_journey.jpg">
 </figure>
 
-&ensp;&ensp;In order to get the <b>Trinity hack</b> working. I had to go install serveral things on my computer and on the PSvita itself. This was the easy part. Thanks to this guide: <a href="https://psvitamod.com/trinity-hack-for-3-69-3-70/">https://psvitamod.com/trinity-hack-for-3-69-3-70/</a>. After that was working, it was time to install <b>modoru</b> using this guide: https://psvitamod.com/modoru-downgrade-the-ps-vita/ . This allows us to downgrade from <b>3.70 OFW</b> to <b>3.65 OFW</b>.
+&ensp;&ensp;In order to get the <b>Trinity hack</b> working. I had to go install serveral things on my computer and on the PSvita itself. This was the easy part. Thanks to this guide: <a href="https://psvitamod.com/trinity-hack-for-3-69-3-70/">https://psvitamod.com/trinity-hack-for-3-69-3-70/</a>. After that was working, it was time to install <b>modoru</b> using this guide: <a href="https://psvitamod.com/modoru-downgrade-the-ps-vita/">https://psvitamod.com/modoru-downgrade-the-ps-vita/</a> . This allows us to downgrade from <b>3.70 OFW</b> to <b>3.65 OFW</b>.
 
 <figure>
 	<img src="/assets/img/psvitamod2.jpg">
@@ -27,7 +27,7 @@ comments: false
 
 &ensp;&ensp;<b>3.65 OFW!</b> Now all we need to do is open <b>VitaShell</b> to activate <b>henkaku</b> again and install <b>h-encore</b>. <b>WROOOOONG!!!</b> The downgrade actually affected our install of <b>VitaShell</b>, which means we need to redo our installation of it. So I treated this part as if I'm just modifying a fresh <b>3.65 OFW</b> PSvita from scratch.
 
-&ensp;&ensp;Following the README file from theFlow's official h-encore repository will get you there (https://github.com/TheOfficialFloW/h-encore). This made my <b>VitaShell</b> usable again. So I just transferred the <i><b>enso.vpk</b></i> from my computer to the PSvita. This is the one I used: https://github.com/TheOfficialFloW/enso/releases/tag/v1.1 . I got caught with some errors initally with this because the link I downloaded from was for </b>3.60 OFW</b>. So make sure you're downloading the right/compatible version!
+&ensp;&ensp;Following the README file from theFlow's official h-encore repository will get you there (<a href="https://github.com/TheOfficialFloW/h-encore">https://github.com/TheOfficialFloW/h-encore</a>). This made my <b>VitaShell</b> usable again. So I just transferred the <i><b>enso.vpk</b></i> from my computer to the PSvita. This is the one I used: <a href="https://github.com/TheOfficialFloW/enso/releases/tag/v1.1">https://github.com/TheOfficialFloW/enso/releases/tag/v1.1</a> . I got caught with some errors initally with this because the link I downloaded from was for </b>3.60 OFW</b>. So make sure you're downloading the right/compatible version!
 
 <figure>
 	<img src="/assets/img/psvitamod3.jpg">
