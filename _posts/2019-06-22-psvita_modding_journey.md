@@ -13,7 +13,7 @@ comments: false
 
 &ensp;&ensp;I decided to trade my new3DSXL for someone's PSvita slim on a game trading website (gametz.com). It was a bit bittersweet to let go of an old friend, but I haven't really gamed on it for a long time. So I thought I'd give the PSvita a go. Thus, my journey to modify my new old PSvita slim from <b>3.70</b> to <b>3.65enso</b>.
 
-&ensp;&ensp;Modifying a 3.70 original firmwarre (<b>OFW</b>) has not been possible until lately when theFlow released the <b>Trinity hack</b>. The hack uses a vulnerability in the PSP emulation. It basically uses an official PSP demo found on the PSN store, mess with the files within, then converts it into the <b>Trinity hack</b>. This allows the <b>henkaku</b> and <b>VitaShell</b> to be installed on the PSvita with a 3.70 OFW.
+&ensp;&ensp;Modifying a 3.70 original firmware (<b>OFW</b>) has not been possible until lately when theFlow released the <b>Trinity hack</b>. The hack uses a vulnerability in the PSP emulation. It basically uses an official PSP demo found on the PSN store, mess with the files within, then converts it into the <b>Trinity hack</b>. This allows the <b>henkaku</b> and <b>VitaShell</b> to be installed on the PSvita with a 3.70 OFW.
 
 <figure>
 	<img src="/assets/img/enso_journey.jpg">
