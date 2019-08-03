@@ -22,9 +22,9 @@ comments: false
   <li>Lots of tutorials are avaiable online.</li>
 </ul>
 
-&ensp;&ensp;Speaking of tuturials, this one helped me out lots: <a href="https://www.youtube.com/watch?v=3qE3YUGeYjY&t=952s">https://www.youtube.com/watch?v=3qE3YUGeYjY&t=952s</a>. The video starts from importing the static logo, animating the individual components of it, and finalizing the end product. There are some steps that are glazed over when he fixes the "bugs" but it took little time to figure it out. Adding audio was not part of the tutorial, so I had to figure that out too. 
+&ensp;&ensp;Speaking of tutorials, this one helped me out lots: <a href="https://www.youtube.com/watch?v=3qE3YUGeYjY&t=952s">https://www.youtube.com/watch?v=3qE3YUGeYjY&t=952s</a>. The video starts from importing the static logo, animating the individual components of it, and finalizing the end product. There are some steps that are glazed over when he fixes the "bugs" but it took little time to figure it out. Adding audio was not part of the tutorial, so I had to figure that out too. 
 
-<b>NOTE: <i>Make sure to set the target FPS in the very beginning; otherwise, you'll have restart or do some awkward deleting and control+z-ing.</i></b>
+<b>NOTE: <i>Make sure to set the target FPS in the very beginning; otherwise, you'll have to restart or do some awkward deleting and control+z-ing.</i></b>
 
 <figure>
    <center>
@@ -34,7 +34,7 @@ comments: false
 </figure>
 
 &ensp;&ensp;My process flow goes like this: animate the logo, add sound, integrate both in the same timeline, finalize the output video.
-The first step is to cut the individual components of the logo into their respective bins. This is done by merging <b>MediaIn1</b> with the trasnparent (ALPHA == 0) background, <b>Background2</b>. A merge block should appear which I labeled as <b>HYPER</b> and <b>CHICKEN_LOGO</b>. I then added a rectangle and ellipse masks to each block respectively. Next, I added a transform for each block that zooms out then back in. This is done with the help of the <b>spline</b> tab. This can also done by clicking on the timeline and adding changes to the size and whatnot manually.
+The first step is to cut the individual components of the logo into their respective bins. This is done by merging <b>MediaIn1</b> with the transparent (ALPHA == 0) background, <b>Background2</b>. A merge block should appear which I labeled as <b>HYPER</b> and <b>CHICKEN_LOGO</b>. I then added a rectangle and ellipse masks to each block respectively. Next, I added a transform for each block that zooms out then back in. This is done with the help of the <b>spline</b> tab. This can also be done by clicking on the timeline and adding changes to the size and whatnot manually.
 
 <b>NOTE: <i>Clicking the points within the spline and pressing CTRL+F will smoothen the transitions of the animation.</i></b>
 
