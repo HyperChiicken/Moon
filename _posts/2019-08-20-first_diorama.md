@@ -93,9 +93,9 @@ comments: false
 &ensp;&ensp;Most builders paint their pieces consistently. They also add a clear coat of paint to keep the paint sealed and give it a nice glossy finish. Scratch all that and follow these guidelines instead:
 
 <ul>
-  <li><b>Spray it as close as possible to the piece you're trying to paint</li>
-  <li><b>Focus on a single location for a long time</li>
-  <li><b>Just lightly coat some pieces</b> </li>
+  <li><b>Spray it as close as possible to the piece you're trying to paint</b></li>
+  <li><b>Focus on a single location for a long time</b></li>
+  <li><b>Just lightly coat some pieces</b></li>
   <li><b>Touch and hit some of the painted parts</b></li>
   <li><b>Do a single coating only</b></li>
   <li><b>Do not use a final layer of clear coat</b></li>
