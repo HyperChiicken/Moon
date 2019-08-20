@@ -62,7 +62,7 @@ comments: false
 <figure class="third">
     <center>
 	    <img src="/assets/img/2019-08-20/postpaint.jpg">
-      <img src="/assets/img/2019-08-20/postpain1.jpg">
+      <img src="/assets/img/2019-08-20/postpaint1.jpg">
       <img src="/assets/img/2019-08-20/postpaint2.jpg">
     </center>
 </figure>
@@ -70,7 +70,7 @@ comments: false
 <figure class="third">
     <center>
 	    <img src="/assets/img/2019-08-20/postpaint3.jpg">
-      <img src="/assets/img/2019-08-20/postpain5.jpg">
+      <img src="/assets/img/2019-08-20/postpaint5.jpg">
       <img src="/assets/img/2019-08-20/postpaint6.jpg">
     </center>
 </figure>
@@ -78,7 +78,7 @@ comments: false
 <figure class="third">
     <center>
 	    <img src="/assets/img/2019-08-20/postpaint7.jpg">
-      <img src="/assets/img/2019-08-20/postpain18.jpg">
+      <img src="/assets/img/2019-08-20/postpaint8.jpg">
       <img src="/assets/img/2019-08-20/postpaint9.jpg">
     </center>
 </figure>
@@ -86,7 +86,7 @@ comments: false
 <figure class="third">
     <center>
 	    <img src="/assets/img/2019-08-20/postpaint10.jpg">
-      <img src="/assets/img/2019-08-20/postpain111.jpg">
+      <img src="/assets/img/2019-08-20/postpaint11.jpg">
       <img src="/assets/img/2019-08-20/postpaint12.jpg">
     </center>
 </figure>
