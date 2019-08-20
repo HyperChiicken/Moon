@@ -149,4 +149,4 @@ comments: false
    </center>
 </figure>
 
-&ensp;&ensp;Now it is time to enjoy the moment of accomplishing your first mediocre diorama. Mine is really crappy but at least it has a theme: white.
+&ensp;&ensp;Now it is time to enjoy the moment of accomplishing your first mediocre diorama. Mine is really crappy but at least it has a theme: <b>white</b>.
