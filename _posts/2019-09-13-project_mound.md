@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dealing with the Project Mound"
-date: 2019-08-20
+date: 2019-09-13
 excerpt: "So many projects to finish and document!"
 tags: [projects, project_mound, to_be_finished, documentation_please]
 comments: false
