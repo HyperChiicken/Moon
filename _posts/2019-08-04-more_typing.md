@@ -2,7 +2,7 @@
 layout: post
 title: "More typing practice"
 date: 2019-08-04
-excerpt: "Got to make a uber short intro roll using DaVinci Resolve 15"
+excerpt: "MOOOAR"
 tags: [touchtypist, typingpro, lookma_nolooking]
 comments: false
 ---
