@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New thing to toy around with - Azure Sphere Edition"
+title: "GameJamming - CompanionShip the Game"
 date: 2019-10-06
 excerpt: "GameJamming"
 tags: [projects, prototype, prototyping, gamejam, companionship]
